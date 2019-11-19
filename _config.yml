@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://www.lucascavalare.com"
+#url: "https://www.lucascavalare.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -20,7 +20,7 @@ title: Lucas Cavalare
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
 
 # Short description of your site
-description: !
+description: Lucas Cavalare's Website.
 
 # --- Navigation bar options --- #
 
