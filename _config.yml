@@ -20,14 +20,14 @@ title: Lucas Cavalare
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
 
 # Short description of your site
-description: Lucas Cavalare's Website.
+description: "Cloud Operations Engineer with Specialisations in Network Computers, Cloud and Virtualisation and a Bachelor of Computer Science." 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Books: ""
-  Resume: ""
+  Resume: "/resume/CV_Lucas_En_IE2 2.docx"
   About Me: "aboutme"
 #  Tags: "tags"
 
