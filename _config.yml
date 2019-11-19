@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://www.anudit.in/"
+url: "https://www.lucascavalare.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -12,7 +12,7 @@ baseurl: ""
 #baseurl: "/projectname"
 
 # Name of website
-title: Anudit Verma
+title: Lucas Cavalare
 
 #For my changes
 # use meta-title: for the center heading of the page.
@@ -20,31 +20,20 @@ title: Anudit Verma
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
 
 # Short description of your site
-description: Let me introduce you to my geek side!
+description: !
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Books: "books"
+  Books: ""
+  Resume: ""
   About Me: "aboutme"
-  Publications:
-    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
-    - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
-    - ResearchGate Profile: "https://www.researchgate.net/profile/Anudit_Verma"
-  Projects:
-    - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
-    - Airtel Suvidha (Airtel WHack Hackathon): "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
-    - Contract Reader Tool (EY Hackathon): "https://www.rlcf.ey.com/in/en/newsroom/news-releases/news-ey-annouces-winners-of-the-intelligent-automation-hackathon"
-    - Medical Ambience App: "https://github.com/anuditverma/MAA-Avaya-Hackathon"
-    - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
-    - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
-  Resume: "resume/Anudit_Verma.pdf"
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/av.jpg"
+avatar: "/img/profile.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter. The logo will have a height of 40px
@@ -67,15 +56,13 @@ avatar: "/img/av.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Anudit Verma
+  name: Lucas Cavalare
 # email: "youremail@domain.com"
-  facebook: anuditverma
-  github: anuditverma
-  twitter: anuditverma
-# google-plus: +AnuditVerma
-  linkedin: anuditverma
-  stackoverflow: 4590331/anudit-verma
-  instagram: anuditverma
+  facebook: lucascavalare
+  github: lucascavalare
+  twitter: lucascavalare
+  linkedin: lucascavalare
+  instagram: lcavalare
 # reddit: yourname
 # xing: yourname
 # stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -111,20 +98,20 @@ footer-links-active:
 share-links-active:
   twitter: true
   facebook: true
-  google: true
+  #google: true
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.anudit.in"
+url-pretty: "www.lucascavalare.com"
 
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "anuditverma"
+disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-84991519-1"
+google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
@@ -143,7 +130,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Kolkata"
+timezone: "Europe/Dublin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
