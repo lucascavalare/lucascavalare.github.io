@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 #url: "https://www.lucascavalare.com"
-baseurl: ""
+#baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -13,14 +13,13 @@ baseurl: ""
 
 # Name of website
 title: Lucas Cavalare
+# Short description of your site
+description: "Cloud Operations Engineer with Specialisations in Network Computers, Cloud and Virtualisation and a Bachelor of Computer Science." 
 
 #For my changes
 # use meta-title: for the center heading of the page.
 # use title: to set the <title> of the web page.
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
-
-# Short description of your site
-description: "Cloud Operations Engineer with Specialisations in Network Computers, Cloud and Virtualisation and a Bachelor of Computer Science." 
 
 # --- Navigation bar options --- #
 
