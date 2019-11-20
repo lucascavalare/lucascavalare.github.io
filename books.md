@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Anudit Verma - My Book Recommendations
+title: Lucas Cavalare - My Book Recommendations
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
@@ -9,14 +9,14 @@ title: Anudit Verma - My Book Recommendations
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>Books I Would Recommend</h1></center><div>
+	<div class="my__suggestion"><center><h1><br>Books I Shall Recommend</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/The_Alchemist.png" alt="The Alchemist" />
-					<h3 class="product__title">The Alchemist</h3>
-					<span class="product__author highlight">Paulo Coelho</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Alchemist+by+paulo+coelho+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/Shell-Scripting.png" alt="Shell Scripting" />
+					<h3 class="product__title">Shell Scripting</h3>
+					<span class="product__author highlight">Steve Parker</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Shell+Scripting+by+steve+parker+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
