@@ -13,7 +13,7 @@ title: Lucas Cavalare - My Book Recommendations
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Shell-Scripting.png" alt="Shell Scripting" />
+					<img class="product__image" src="images/Shell_Scripting.png" alt="Shell Scripting" />
 					<h3 class="product__title">Shell Scripting</h3>
 					<span class="product__author highlight">Steve Parker</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Shell+Scripting+by+steve+parker+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
