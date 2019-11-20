@@ -9,8 +9,8 @@ baseurl: ""
 
 # Name of website
 title: Lucas Cavalare
-# Short description of your site
-description: "Cloud Operations Engineer with Specialisations in Network Computers, Cloud and Virtualisation and a Bachelor of Computer Science." 
+description: "Cloud Operations Engineer with Specialisations in Network Computers, Cloud and Virtualisation and Bachelor of Computer Science."
+#Cloud Operations Engineer with Specialisations in Network Computers, Cloud and Virtualisation and a Bachelor of Computer Science.
 
 #For my changes
 # use meta-title: for the center heading of the page.
@@ -58,15 +58,6 @@ author:
   twitter: lucascavalare
   linkedin: lucascavalare
   instagram: lcavalare
-# reddit: yourname
-# xing: yourname
-# stackoverflow: yourlink  # eg. "3943160/daattali"
-# snapchat: yourname
-# youtube: yourlink   # eg. user/daattali or channel/daattali
-# spotify: yourname
-# steam: yourname
-# twitch: yourname
-# yelp: yourname
 
 # Select which links to show in the footer
 footer-links-active:
@@ -93,7 +84,6 @@ footer-links-active:
 share-links-active:
   twitter: true
   facebook: true
-  #google: true
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -129,7 +119,7 @@ timezone: "Europe/Dublin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
