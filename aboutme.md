@@ -34,7 +34,7 @@ I enjoy reading <a target="_blank" href="https://www.lucascavalare.github.io/boo
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Plus, I am very fond of DIY, I love to rebuild old cars and play around with my minimalist sense of art, apart from these I love listening to music. I am eager to meet new people, to connect, discuss, network and grow, mostly meet-ups.
+Plus, I am very fond of DIY, I love to rebuild old cars and play around with my minimalist sense of art, apart from these I love listening to music. I am eager to meet new people, to connect, discuss, network and grow.
 </p>
 
 <p class="about-text">
