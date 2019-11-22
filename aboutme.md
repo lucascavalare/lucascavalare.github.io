@@ -2,7 +2,7 @@
 layout: page
 title: About Lucas Cavalare
 meta-title: About me
-subtitle: "At the begining, <br> "Choose a job you love, and you will never have to work a day in your life"."
+subtitle: "At the begining, <br> Choose a job you love, and you will never have to work a day in your life"
 ---
 
 <div id="aboutme-section">
