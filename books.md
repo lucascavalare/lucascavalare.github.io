@@ -30,10 +30,10 @@ Up & Running" />
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Zero_to_One.png" alt="Zero to One: Notes on Startups, or How to Build the Future" />
-					<h3 class="product__title">Zero to One: Notes on Startups, or How to Build the Future</h3>
-					<span class="product__author highlight">Peter Thiel & Blake Masters</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=zero+to+one+by+peter+thiel+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/The_Phoenix_Project.png" alt="The Phoenix Project" />
+					<h3 class="product__title">The Phoenix Project</h3>
+					<span class="product__author highlight">Gene Kim, Kevin Behr & George Spafford</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+phenix+prject+by+gene_kim&kevin_behr&george_spafford+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
