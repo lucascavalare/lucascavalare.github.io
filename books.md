@@ -21,10 +21,10 @@ title: Lucas Cavalare - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Now_That_You_are_Rich.png" alt="Now That You're Rich: Let's Fall in Love!" />
-					<h3 class="product__title">Now That You're Rich: Let's Fall in Love!</h3>
-					<span class="product__author highlight">Durjoy Datta & Maanvi Ahuja</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=now+that+you%27re+rich+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/Terraform_Up&Running.png" alt="Terraform Up & Running" />
+					<h3 class="product__title">Terraform Up & Running!</h3>
+					<span class="product__author highlight">Yevgeniy Brikman</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=terraform+up+and+running+by+Yevgeniy+Brikman+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
