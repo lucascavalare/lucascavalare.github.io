@@ -21,8 +21,9 @@ title: Lucas Cavalare - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Terraform_Up&Running.png" alt="Terraform Up & Running" />
-					<h3 class="product__title">Terraform Up & Running!</h3>
+					<img class="product__image" src="images/Terraform_Up&Running.png" alt="Terraform 
+Up & Running" />
+					<h3 class="product__title">Terraform Up & Running</h3>
 					<span class="product__author highlight">Yevgeniy Brikman</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=terraform+up+and+running+by+Yevgeniy+Brikman+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
