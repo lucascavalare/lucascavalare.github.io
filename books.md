@@ -40,7 +40,7 @@ Up & Running" />
 				<div class="product__info">
 					<img class="product__image" src="images/Mastering_Python_Regular_Expressions.png" alt="Mastering Python Regular Expressions" />
 					<h3 class="product__title">Mastering Python Regular Expressions</h3>
-					<span class="product__author highlight">Mark Manson</span>
+					<span class="product__author highlight">Félix Lopes & Victor Romero</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Matering+Python+Regular+Expressions+by+felix_lopes+victor_romero+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
