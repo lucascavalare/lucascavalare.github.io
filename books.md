@@ -47,10 +47,10 @@ Up & Running" />
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Harry_Potter_and_the_Cursed_Child.png" alt="Harry Potter and the Cursed Child" />
-					<h3 class="product__title">Harry Potter and the Cursed Child</h3>
-					<span class="product__author highlight">J. K. Rowling, Jack Thorne, & John Tiffany</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Harry+Potter+and+the+Cursed+Child+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/Docker_Cookbook.png" alt="Docker Cookbook" />
+					<h3 class="product__title">Docker Cookbook</h3>
+					<span class="product__author highlight">Sébastien Goasguen</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Docker+Cookbook+by+Sebastien+Goasguen+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
