@@ -55,7 +55,7 @@ Up & Running" />
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Kubernetes_Up&Running.png" alt="Kubernetes Up & Running" />
+					<img class="product__image" src="images/Kubernetes_Up_&_Running.png" alt="Kubernetes Up & Running" />
 					<h3 class="product__title">Kubernetes Up & Running</h3>
 					<span class="product__author highlight">K. Hightower, B. Burns, & J. Breda</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Kubernetes+Up+Running+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
