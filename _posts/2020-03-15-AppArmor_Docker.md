@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: How to disable apparmor docker-default profile on Ubuntu/Debian?
 tags: [Ubuntu/Debian, Linux Kernel, AppArmor, Docker]
 bigimg:
