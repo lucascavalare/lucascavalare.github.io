@@ -14,7 +14,7 @@ It was a bit confusing because I did not see any `docker-default` profile into `
 I have tried to `aa-complain` as usage: `usage: aa-complain [-h] [-d DIR] [--no-reload] program [program ...]`, however, the [-d DIR] parameter
 was not working to `/usr/bin/docker` default installation. 
 
-#Issue:
+# Issue:
  ```
     To set a process to complain mode, use the command line tool
     'aa-complain'. To really tear down all profiles, run 'aa-teardown'."
@@ -24,7 +24,7 @@ was not working to `/usr/bin/docker` default installation.
  ``` 
  
  
-#Check:
+# Check:
  ```root@consul-server:/etc/apparmor.d# aa-status
     apparmor module is loaded.
     1 profiles are loaded.
@@ -40,7 +40,7 @@ was not working to `/usr/bin/docker` default installation.
 I found a related issue in a thread of the [Moby Project](https://github.com/moby/moby) [#33060](https://github.com/moby/moby/issues/33060#issuecomment-419363270).
 The thread is about the same issue named to __Impossible to see contents of AppArmor Profile "docker-default"__. Hereto a `docker-default` file profile did solve it. 
 
-#So how I deal with that ?
+# So how I deal with that ?
 
 A generated profile based on a [template](https://raw.githubusercontent.com/moby/moby/master/profiles/apparmor/template.go) and be sure the profile is named `docker-default`.
 Do a `copy-paste` to this configuration file in `/etc/apparmor.d/docker-default`. 
@@ -81,13 +81,15 @@ Do a `copy-paste` to this configuration file in `/etc/apparmor.d/docker-default`
     }
  ```
 
-#RUN:
+# RUN:
+
 __P.S.__ If you are not `root`, make sure to use `sudo` within the command:
  ```
     root@consul-server:/etc/apparmor.d# aa-disable /etc/apparmor.d/docker-default
     Disabling /etc/apparmor.d/docker-default.
  ```
-#CHECK:
+# CHECK:
+
  ```
     root@consul-server:/etc/apparmor.d# aa-status
     apparmor module is loaded.
