@@ -2,8 +2,10 @@
 layout: post
 title: How to disable apparmor to docker-default profile on Ubuntu/Debian?
 tags: [Ubuntu/Debian, Linux Kernel, AppArmor, Docker]
-bigimg:
-  - "/img/AppArmor_logo.png"
+image: https://lucascavalare.github.io/img/apparmor_docker/AppArmor_logo.png
+share-image: https://lucascavalare.github.io/img/apparmor_docker/AppArmor_logo.png
+#bigimg:
+#  - "/img/AppArmor_logo.png"
 ---
 
 __AppArmor__ ("Application Armor") is a Linux kernel security module that allows the system administrator to restrict programs' capabilities with per-program profiles. 
