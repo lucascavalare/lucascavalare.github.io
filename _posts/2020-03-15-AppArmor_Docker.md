@@ -25,7 +25,8 @@ was not working to `/usr/bin/docker` default installation.
  
  
 # Check:
- ```root@consul-server:/etc/apparmor.d# aa-status
+ ```
+    $ root@consul-server:/etc/apparmor.d# aa-status
     apparmor module is loaded.
     1 profiles are loaded.
     1 profiles are in enforce mode.
@@ -85,13 +86,13 @@ Do a `copy-paste` to this configuration file in `/etc/apparmor.d/docker-default`
 
 __P.S.__ If you are not `root`, make sure to use `sudo` within the command:
  ```
-    root@consul-server:/etc/apparmor.d# aa-disable /etc/apparmor.d/docker-default
+    $ root@consul-server:/etc/apparmor.d# aa-disable /etc/apparmor.d/docker-default
     Disabling /etc/apparmor.d/docker-default.
  ```
 # CHECK:
 
  ```
-    root@consul-server:/etc/apparmor.d# aa-status
+    $ root@consul-server:/etc/apparmor.d# aa-status
     apparmor module is loaded.
     0 profiles are loaded.
     0 profiles are in enforce mode.
