@@ -80,7 +80,7 @@ Do a `copy-paste` to this configuration file in `/etc/apparmor.d/docker-default`
       deny /sys/fs/c[^g]*/** wklx,
       deny /sys/fs/cg[^r]*/** wklx,
       deny /sys/firmware/** rwklx,
-      deny
+      deny /sys/kernel/security/** rwklx,
     }
  ```
 
