@@ -91,6 +91,8 @@ __P.S.__ If you are not `root`, make sure to use `sudo` within the command:
     $ root@consul-server:/etc/apparmor.d# aa-disable /etc/apparmor.d/docker-default
     Disabling /etc/apparmor.d/docker-default.
  ```
+If you don't have `aa-disable` command installed. Run: `sudo apt-get install apparmor-utils`.
+
 # CHECK:
 
  ```
