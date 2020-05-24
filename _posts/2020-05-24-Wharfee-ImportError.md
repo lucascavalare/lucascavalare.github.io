@@ -38,9 +38,8 @@ is `1.10.6` on the https://pypi.org/project/docker-py/ project.
 Also, to keep `pip3` up to date I've just ran `pip3 install pip --upgrade` to upgrade `pip3` to the latest stable version `pip-20.1.1`.
 
 Now I'm able to use `wharfee` to help me managing `Docker` easily and interactively though:
-```
-    ~/Projects/docbook/ch09     master    wharfee                                                                        2098  16:16:33 
-Version: 0.10
-Home: http://wharfee.com
-wharfee>
-```
+
+<p align="center">
+<img width="1000" height="70" 
+src="https://user-images.githubusercontent.com/19478719/82759026-3ecccb80-9de2-11ea-92af-852424653ee8.png">
+</p>
