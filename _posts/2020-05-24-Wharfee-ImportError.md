@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wharfee - A Python-based interactive CLI for Docker.
-tags: [Unix/Linux/MacOS/Windows, Python-py, CLI, Wharfee, Docker]
-image: https://user-images.githubusercontent.com/19478719/80831416-b132fd00-8be2-11ea-8f6d-0e612f1b5370.png
-share-image: https://user-images.githubusercontent.com/19478719/80831416-b132fd00-8be2-11ea-8f6d-0e612f1b5370.png
+tags: [MacOS/Catalina, Python-py, CLI, Wharfee, Docker]
+image: https://user-images.githubusercontent.com/19478719/82759143-4f317600-9de3-11ea-8b60-673ee94e72c6.jpg
+share-image: https://user-images.githubusercontent.com/19478719/82759143-4f317600-9de3-11ea-8b60-673ee94e72c6.jpg
 #bigimg:
 #  - "/img/Wharfee_logo.png"
 ---
