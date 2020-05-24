@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Wharfee - A Python-based interactive CLI for Docker.
-tags: [MacOS/Catalina, Python-py, CLI, Wharfee, Docker]
+title: Wharfee - `ImportError: cannot import AutoVersionClient from docker`.
+tags: [macOS Catalina, Python-py, CLI, Wharfee, Docker]
 image: https://user-images.githubusercontent.com/19478719/82759143-4f317600-9de3-11ea-8b60-673ee94e72c6.jpg
 share-image: https://user-images.githubusercontent.com/19478719/82759143-4f317600-9de3-11ea-8b60-673ee94e72c6.jpg
 #bigimg:
