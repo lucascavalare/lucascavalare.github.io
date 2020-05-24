@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Wharfee ImportError 'AutoVersionClient'.
-tags: [MacOS/Catalina, python-py, CLI, Wharfee, Docker]
-image: https://user-images.githubusercontent.com/19478719/80831416-b132fd00-8be2-11ea-8f6d-0e612f1b5370.png
-share-image: https://user-images.githubusercontent.com/19478719/80831416-b132fd00-8be2-11ea-8f6d-0e612f1b5370.png
+title: Wharfee - ImportError: cannot import name 'AutoVersionClient' from 'docker'.
+tags: [MacOS/Catalina, Python-py, CLI, Wharfee, Docker]
+image: https://user-images.githubusercontent.com/19478719/82759143-4f317600-9de3-11ea-8b60-673ee94e72c6.jpg
+share-image: https://user-images.githubusercontent.com/19478719/82759143-4f317600-9de3-11ea-8b60-673ee94e72c6.jpg
 #bigimg:
-#  - "/img/Wharfee_logo.png"
+#  - "/img/pip_big.jpg"
 ---
 
 I've updated to `macOS Catalina - 10.15.4` pretty while ago, and since then, I'm facing some problems with some software dependencies 
