@@ -8,7 +8,7 @@ share-image: https://user-images.githubusercontent.com/19478719/82759143-4f31760
 #  - "/img/Wharfee_logo.png"
 ---
 
-I've updated to `macOS Catalina - 10.15.4` pretty while ago, and since then, I'm facing some problems with some software dependencies 
+I've updated to `macOS Catalina - 10.15.4` pretty while ago, and since then, I'm facing problems with some software dependencies 
 already installed on the system. Today, I got one and I'll share It because It can be the problem of someone else as well. 
 
 As explained in an earlier post, using __Wharfee__ will makes your life easier when managing `Docker`. __Wharfee__ is an
