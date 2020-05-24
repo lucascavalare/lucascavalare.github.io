@@ -14,7 +14,7 @@ already installed on the system. Today, I got one and I'll share It because It c
 As explained in an earlier post, using __Wharfee__ will makes your life easier when managing `Docker`. __Wharfee__ is an
 interactive CLI tool to play with `Docker` and It fills up the `docker commands` as tab complete dough. 
 
-On the `macOS Catalina - 10.15.4` when trying to run the `wharfee` I have the following error:
+On the `macOS Catalina - 10.15.4` when trying to run the `wharfee`, I had the following error:
 ```
 Traceback (most recent call last):
   File "/usr/local/bin/wharfee", line 5, in <module>
@@ -26,7 +26,7 @@ Traceback (most recent call last):
 ImportError: cannot import name 'AutoVersionClient' from 'docker' (/usr/local/lib/python3.7/site-packages/docker/__init__.py)
 ```
 
-Researching for possible solutions, I found [Using new Python Docker client gives 'module' object has no attribute 'AutoVersionClient' #152](https://github.com/goldmann/docker-squash/issues/152) 
+Researching about possible solutions, I found [Using new Python Docker client gives 'module' object has no attribute 'AutoVersionClient' #152](https://github.com/goldmann/docker-squash/issues/152) 
 that was related to `docker squash`, however due to the same 'module' object attribute `AutoVersionClient`. 
 
 Using [docker-py](https://github.com/docker/docker-py), a Python library to Docker Engine API https://docker-py.readthedocs.io/ would conflict 
