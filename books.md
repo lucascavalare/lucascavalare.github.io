@@ -13,6 +13,14 @@ title: Lucas Cavalare - My Book Recommendations
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
+					<img class="product__image" src="images/SRW.jpeg" alt="Site Reliability Workbook" />
+					<h3 class="product__title">Site Reliability Workbook</h3>
+					<span class="product__author highlight">Betsy Beyer, N. R. Murphy, D. K. Rensin, K. Kawahara & S. Thorne</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+site+reliability+workbook+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
 					<img class="product__image" src="images/Shell_Scripting.png" alt="Shell Scripting" />
 					<h3 class="product__title">Shell Scripting</h3>
 					<span class="product__author highlight">Steve Parker</span>
