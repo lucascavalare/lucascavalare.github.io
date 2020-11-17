@@ -71,10 +71,10 @@ Up & Running" />
 			</div>		
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Who_Moved_My_Cheese.png" alt="Who Moved My Cheese?" />
-					<h3 class="product__title">Who Moved My Cheese?</h3>
-					<span class="product__author highlight">Spencer Johnson</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Who+Moved+My+Cheese%3F+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/LPIC-1.png" alt="LPIC-1 Study Guide" />
+					<h3 class="product__title">LPIC-1 Study Guide</h3>
+					<span class="product__author highlight">C Breshnaham & R. Blum</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=LPIC+1%3F+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
